@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318081352556",
+    "project_id": "kanver-77687",
+    "storage_bucket": "kanver-77687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318081352556:android:c36ae3cd07e3a6f6d5e949",
+        "android_client_info": {
+          "package_name": "com.example.kanver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBZaXRZcIbuCpTLtSivRN2Gvodc8QJqac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
